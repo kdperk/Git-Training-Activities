@@ -1,2 +1,8 @@
+"You miss 100% of the shots you don't take - Wayne Gretzky" - Michael Scott
+
+C++ for its power and flexibility.
+Java for its ease of use.
+
+Making an edit to create a merge conflict.
 alternate version of file
 merge conflict activity 2
