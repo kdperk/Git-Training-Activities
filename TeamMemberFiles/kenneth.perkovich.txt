@@ -4,3 +4,5 @@ C++ for its power and flexibility.
 Java for its ease of use.
 
 Making an edit to create a merge conflict.
+alternate version of file
+merge conflict activity 2
