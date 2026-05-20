@@ -1,0 +1,2 @@
+alternate version of file
+merge conflict activity 2
